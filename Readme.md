@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal692002&label=Profile%20views&color=0e75b6&style=flat" alt="bishal692002" /> </p>
 
-- 🔭 I’m currently working on [Quantum-Circuit]([https://github.com/bishal692002/Quantum-Circuit](https://github.com/bishal692002/Quantum-Circuit-2))
+- 🔭 I’m currently working on [Quantum-Circuit]([(https://github.com/bishal692002/Quantum-Circuit-2))
 
 - 🌱 I’m currently learning **React**
 
