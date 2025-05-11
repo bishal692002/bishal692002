@@ -2,6 +2,11 @@
 <h3 align="center">An aspiring Web Developer from India 🇮🇳</h3>
 
 <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt2c3J6YWRvZmZ4NjhzbHR4bml3ZG54Y3gwb3ZtcW1kYWV0OGs2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=bishal692002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -65,3 +70,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal692002" alt="GitHub Streak" />
 </p>
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/bishal692002/bishal692002/blob/output/github-contribution-grid-snake.svg)
