@@ -75,5 +75,6 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/bishal692002/bishal692002/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+ <img src="https://raw.githubusercontent.com/bishal692002/bishal692002/output/snake.svg" alt="Snake animation" />
+
 </p>
