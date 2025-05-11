@@ -2,9 +2,8 @@
 <h3 align="center">An aspiring Web Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt2c3J6YWRvZmZ4NjhzbHR4bml3ZG54Y3gwb3ZtcW1kYWV0OGs2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt2c3J6YWRvZmZ4NjhzbHR4bml3ZG54Y3gwb3ZtcW1kYWV0OGs2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600" />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bishal692002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -52,7 +51,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
 ---
@@ -70,6 +69,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal692002" alt="GitHub Streak" />
 </p>
+
+---
+
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/bishal692002/bishal692002/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/bishal692002/bishal692002/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
