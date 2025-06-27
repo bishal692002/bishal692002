@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Bishal</h1>
-<h3 align="center">An aspiring Web Developer from India 🇮🇳</h3>
+<h3 align="center">An aspiring Developer from India 🇮🇳</h3>
 
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt2c3J6YWRvZmZ4NjhzbHR4bml3ZG54Y3gwb3ZtcW1kYWV0OGs2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
