@@ -13,7 +13,7 @@
 
 ## 🔍 About Me
 
-- 🔭 I’m currently working on [Quantum-Circuit](https://github.com/bishal692002/Quantum-Circuit-2) – a web-based quantum circuit simulator  
+- 🔭 I’m currently working on [Quantum-Circuit](https://github.com/bishal692002/Sakhi) – a web-based quantum circuit simulator  
 - 🌱 I’m currently learning **React** and exploring full-stack web development  
 - 👨‍💻 All of my projects are available at: [bishal692002.github.io/Portfolio](https://bishal692002.github.io/Portfolio/)  
 - 📫 How to reach me: **bishal692002@gmail.com**  
