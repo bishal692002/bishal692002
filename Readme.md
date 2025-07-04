@@ -11,7 +11,7 @@
 
 ---
 
-## 🔍 About Me
+## 🔍 About Me --->
 
 - 🔭 I’m currently working on [Sakhi](https://github.com/bishal692002/Sakhi) – a period tracking application.
 - 🌱 I’m currently learning **React** and exploring full-stack web development  
