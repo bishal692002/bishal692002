@@ -2,7 +2,8 @@
 <h3 align="center">An aspiring Developer from India 🇮🇳</h3>
 
 
-<img align="right" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt2c3J6YWRvZmZ4NjhzbHR4bml3ZG54Y3gwb3ZtcW1kYWV0OGs2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="right" height="100" width="100" style="margin-left: 10px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt2c3J6YWRvZmZ4NjhzbHR4bml3ZG54Y3gwb3ZtcW1kYWV0OGs2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+
 
 
 <p align="center">
